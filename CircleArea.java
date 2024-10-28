@@ -24,7 +24,8 @@ public class CircleArea
         double radius = getinput.nextDouble();
         double pi = 3.14;
         double area = radius * radius * pi;
-        System.out.println(area);
+        
+        System.out.print(area);
     
     }
     
